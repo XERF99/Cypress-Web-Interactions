@@ -1,5 +1,5 @@
-### Manejando diferentes elementos web con Cypress
-## Autor: Francisco Rodriguez
+# Manejando diferentes elementos web con Cypress
+# Autor: Francisco Rodríguez
 
 # Cypress 13 Web Elements Management Project
 
@@ -49,12 +49,9 @@ Este proyecto utiliza Cypress 13 para automatizar pruebas de manejo de diferente
 
 Interfaz gráfica de Cypress
 
-    ```bash
     npx cypress open
-    ```
+    
 Ejecutar cypress desde la línea de comandos
 
-    ```bash
     npx cypress run
-    ```
 
