@@ -1,0 +1,25 @@
+{
+  "name": "cypress-interacciones-web",
+  "version": "1.0.0",
+  "description": "Manejo de elementos web con cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Cypress",
+    "-",
+    "E2E",
+    "-",
+    "Elementos",
+    "Web"
+  ],
+  "author": "Francisco Rodriguez",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.13.0"
+  },
+  "devDependencies": {
+    "cypress-xpath": "^2.0.1"
+  }
+}
